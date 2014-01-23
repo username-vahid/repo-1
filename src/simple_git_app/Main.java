@@ -15,7 +15,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("this is a github project");
+        System.out.println("this is a github project but it is not the last one because \n" +
+                "i canged it ha ha ha ha");
     }
 
 }
